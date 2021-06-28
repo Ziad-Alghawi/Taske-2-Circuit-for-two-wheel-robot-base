@@ -20,19 +20,19 @@ Then I connected the circuit as shown in the picture.
 
 In the beginning I reached the Ground and the Power
 
-Next I connected the pins from the H-bridge motor driver to the Arduino UNO R3
+# Next I connected the pins (from the H-bridge motor driver to the Arduino)
 
-Enable 1 & 2 Contact 8
+Enable 1 & 2 connected with pin number 8
 
-Input 1 Contact 9
+Input 1 connected with pin number 9
 
-Input 2 contact pin 10.
+Input 2 connected with pin number 10.
 
-Enable 3 and 4 contact 7
+Enable 3 and 4 connected with pin number 7
 
-Input 3 pin contact 6
+Input 3 pin connected with pin number 6
 
-Input 4 pin contact 5
+Input 4 pin connected with pin number 5
 
 
 Then I wrote the code attached here
